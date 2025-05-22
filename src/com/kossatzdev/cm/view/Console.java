@@ -41,6 +41,8 @@ public class Console {
     private void gameLoop() {
         try {
             while (!board.objectiveAchieved()) {
+                System.out.println("Bem vindo ao Campo Minado. Digite 'sair' a qualquer momento para encerrar o jogo.\n");
+
                 System.out.println(board);
 
                 int[] coordinates = readCoordinates();

@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a835161-2762-4fd5-b84c-33724f5996b7" name="Changes" comment="" />
+    <list default="true" id="6a835161-2762-4fd5-b84c-33724f5996b7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kossatzdev/cm/Aplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kossatzdev/cm/Aplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kossatzdev/cm/view/Console.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kossatzdev/cm/view/Console.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SrKossatz"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SrKossatz/minefield.git",
+    "accountId": "4e7b9c31-d6af-4a66-9373-5c0970a0ab33"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
