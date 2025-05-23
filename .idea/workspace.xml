@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a835161-2762-4fd5-b84c-33724f5996b7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kossatzdev/cm/Aplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kossatzdev/cm/Aplication.java" afterDir="false" />
+    <list default="true" id="6a835161-2762-4fd5-b84c-33724f5996b7" name="Changes" comment="feat: inform user they can type 'sair' to exit the game">
       <change beforePath="$PROJECT_DIR$/src/com/kossatzdev/cm/view/Console.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kossatzdev/cm/view/Console.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,7 +145,20 @@
       <option name="presentableId" value="Default" />
       <updated>1747732133460</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: inform user they can type 'sair' to exit the game">
+      <option name="closed" value="true" />
+      <created>1747958365022</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747958365022</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: inform user they can type 'sair' to exit the game" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: inform user they can type 'sair' to exit the game" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/campo_minado$CampoTest.ic" NAME="CampoTest Coverage Results" MODIFIED="1747756998673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">

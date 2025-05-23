@@ -41,7 +41,7 @@ public class Console {
     private void gameLoop() {
         try {
             while (!board.objectiveAchieved()) {
-                System.out.println("Bem vindo ao Campo Minado. Digite 'sair' a qualquer momento para encerrar o jogo.\n");
+                System.out.println("\uD83D\uDCA3 Campo Minado \uD83D\uDCA3");
 
                 System.out.println(board);
 
@@ -68,7 +68,7 @@ public class Console {
 
     private int[] readCoordinates() {
         while (true) {
-            String inputValue = catchInputValue("Digite o valor da (linha,coluna): ");
+            String inputValue = catchInputValue("Digite o valor da (linha,coluna) ou 'sair' para finalizar o jogo: ");
             inputValue = inputValue.replace(".", ",");
 
             String[] parts = inputValue.split(",");
